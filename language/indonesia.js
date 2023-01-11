@@ -1083,39 +1083,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 │○ !zodiak 
 ╰❒ !shio [query]
 
-╭─❒ 「 Random Anime 」
-│○ !loli
-│○ !neko
-│○ !waifu
-│○ !shinobu
-│○ !megumin
-│○ !bully
-│○ !cuddle
-│○ !cry
-│○ !hug
-│○ !awoo
-│○ !kiss
-│○ !lick
-│○ !pat
-│○ !smug
-│○ !bonk
-│○ !yeet
-│○ !blush
-│○ !smile
-│○ !wave
-│○ !highfive
-│○ !handhold
-│○ !nom
-│○ !bite
-│○ !glomp
-│○ !slap
-│○ !kill
-│○ !happy
-│○ !wink
-│○ !poke
-│○ !dance
-╰❒ !cringe
-
 ╭─❒ 「 Voice Change Menu 」
 │○ !bass
 │○ !blown
@@ -1143,79 +1110,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 │○ !addstik
 │○ !delstik
 ╰❒ !liststik
-
-╭─❒ 「 Nsfw & Sfw 」
-│○ !cuddle
-│○ !feed
-│○ !foxgirl
-│○ !kemonomimi2
-│○ !woof
-│○ !holo2
-│○ !hug
-│○ !kiss
-│○ !lizard
-│○ !meowi
-│○ !neko2
-│○ !pat
-│○ !poke
-│○ !slap
-│○ !tickle
-│○ !baka
-│○ !smug
-│○ !neko-sfw
-│○ !hentai
-│○ !hentai-gif
-│○ !spank
-│○ !blowjob
-│○ !cumarts
-│○ !eroyuri
-│○ !eroneko
-│○ !erokemonomimi
-│○ !erokitsune
-│○ !ero
-│○ !feet
-│○ !erofeet
-│○ !feetgif
-│○ !femdom
-│○ !futanari
-│○ !hentai
-│○ !holoero
-│○ !holo
-│○ !keta
-│○ !kitsune
-│○ !kemonomimi
-│○ !pussyart
-│○ !pussywankgif
-│○ !girl-solo
-│○ !girl-solo-gif
-│○ !tits
-│○ !trap
-│○ !yuri
-│○ !avatar2
-│○ !anal
-│○ !bj
-│○ !boobs
-│○ !classic
-│○ !cumsluts
-│○ !kuni
-│○ !lesbian
-│○ !neko
-│○ !neko-gif
-│○ !ahegao
-│○ !bdsm
-│○ !cuckold
-│○ !cum
-│○ !foot
-│○ !gangbang
-│○ !glasses
-│○ !jahy
-│○ !masturbation
-│○ !nsfw-neko
-│○ !orgy
-│○ !panties
-│○ !tentacles
-│○ !thighs
-╰❒ !zettai
 
 ╭─❒ 「 Ephoto360 Menu 」
 │○ !youtubegold
@@ -1506,30 +1400,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 │○ !susunkata
 ╰❒ !caklontong
 
-
-╭─❒ 「 Asupan Menu 」
-│○ !chika
-│○ !delvira
-│○ !ayu
-│○ !bunga
-│○ !aura
-│○ !nisa
-│○ !ziva
-│○ !yana
-│○ !viona
-│○ !syania
-│○ !riri
-│○ !syifa
-│○ !mama_gina
-│○ !alcakenya
-│○ !mangayutri
-│○ !rikagusriani
-│○ !asupan
-│○ !bocil
-│○ !geayubi
-│○ !santuy
-│○ !ukhty
-╰❒ !syifa
 
 ╭─❒ 「 Telegram Sticker 」
 │○ !awoawo
